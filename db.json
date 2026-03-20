@@ -16,7 +16,6 @@
   "E160a": {"name": "Beta-carotene", "category": "Colorant", "risk": "Safe", "desc": "فيتامين A ملون"},
   "E160c": {"name": "Paprika Extract", "category": "Colorant", "risk": "Safe", "desc": "ملون طبيعي من الفلفل"},
   "E162": {"name": "Beetroot Red", "category": "Colorant", "risk": "Safe", "desc": "ملون من البنجر"},
-
   "E200": {"name": "Sorbic Acid", "category": "Preservative", "risk": "Safe", "desc": "يمنع نمو الفطريات"},
   "E202": {"name": "Potassium Sorbate", "category": "Preservative", "risk": "Medium", "desc": "مادة حافظة شائعة"},
   "E210": {"name": "Benzoic Acid", "category": "Preservative", "risk": "Medium", "desc": "مادة حافظة"},
@@ -26,7 +25,6 @@
   "E249": {"name": "Potassium Nitrite", "category": "Preservative", "risk": "High", "desc": "مرتبط بمخاطر صحية"},
   "E250": {"name": "Sodium Nitrite", "category": "Preservative", "risk": "High", "desc": "في اللحوم المصنعة"},
   "E251": {"name": "Sodium Nitrate", "category": "Preservative", "risk": "High", "desc": "حافظة في اللحوم"},
-
   "E300": {"name": "Ascorbic Acid", "category": "Antioxidant", "risk": "Safe", "desc": "فيتامين C"},
   "E301": {"name": "Sodium Ascorbate", "category": "Antioxidant", "risk": "Safe", "desc": "مشتق فيتامين C"},
   "E306": {"name": "Tocopherol", "category": "Antioxidant", "risk": "Safe", "desc": "فيتامين E"},
@@ -34,7 +32,6 @@
   "E330": {"name": "Citric Acid", "category": "Acidity Regulator", "risk": "Safe", "desc": "منظم حموضة"},
   "E331": {"name": "Sodium Citrate", "category": "Acidity Regulator", "risk": "Safe", "desc": "منظم حموضة"},
   "E338": {"name": "Phosphoric Acid", "category": "Acidity Regulator", "risk": "Medium", "desc": "يستخدم في المشروبات الغازية"},
-
   "E400": {"name": "Alginic Acid", "category": "Thickener", "risk": "Safe", "desc": "مكثف طبيعي من الطحالب"},
   "E401": {"name": "Sodium Alginate", "category": "Thickener", "risk": "Safe", "desc": "مستخرج من الطحالب"},
   "E402": {"name": "Potassium Alginate", "category": "Thickener", "risk": "Safe", "desc": "مكثف طبيعي"},
@@ -64,7 +61,6 @@
   "E476": {"name": "Polyglycerol Polyricinoleate", "category": "Emulsifier", "risk": "Medium", "desc": "يستخدم في الشوكولاتة"},
   "E481": {"name": "Sodium Stearoyl Lactylate", "category": "Emulsifier", "risk": "Safe", "desc": "مستحلب"},
   "E482": {"name": "Calcium Stearoyl Lactylate", "category": "Emulsifier", "risk": "Safe", "desc": "مستحلب"},
-
   "E500": {"name": "Sodium Carbonate", "category": "Acidity Regulator", "risk": "Safe", "desc": "منظم حموضة ويستخدم في الخَبز"},
   "E501": {"name": "Potassium Carbonate", "category": "Acidity Regulator", "risk": "Safe", "desc": "منظم حموضة"},
   "E503": {"name": "Ammonium Carbonate", "category": "Leavening Agent", "risk": "Medium", "desc": "عامل رفع في المخبوزات"},
@@ -101,242 +97,38 @@
   "E577": {"name": "Potassium Gluconate", "category": "Acidity Regulator", "risk": "Safe", "desc": "مادة غذائية"},
   "E578": {"name": "Calcium Gluconate", "category": "Acidity Regulator", "risk": "Safe", "desc": "مكمل غذائي"},
   "E579": {"name": "Ferrous Gluconate", "category": "Nutrient", "risk": "Safe", "desc": "مصدر للحديد"},
-  "E585": {"name": "Ferrous Lactate", "category": "Nutrient", "risk": "Safe", "desc": "مكمل حديد"}
-}
-{
-  "E586": {
-    "name": "4-هكسيل ريزورسينول",
-    "category": "مادة حافظة",
-    "risk": "warn",
-    "desc": "يستخدم في حفظ المأكولات البحرية",
-    "harms": "قد يسبب تهيج عند بعض الأشخاص"
-  },
-  "E587": {
-    "name": "أوكتيل جالات",
-    "category": "مضاد أكسدة",
-    "risk": "warn",
-    "desc": "يمنع أكسدة الدهون والزيوت",
-    "harms": "يُعتبر آمن لكن بكميات محدودة"
-  },
-  "E600": {
-    "name": "حمض الجلوتاميك",
-    "category": "محسن نكهة",
-    "risk": "safe",
-    "desc": "حمض أميني طبيعي مرتبط بالطعم",
-    "harms": "آمن غذائيًا"
-  },
-  "E610": {
-    "name": "جلايسين",
-    "category": "محسن نكهة / حمض أميني",
-    "risk": "safe",
-    "desc": "حمض أميني طبيعي",
-    "harms": "لا توجد أضرار معروفة"
-  },
-  "E621": {
-    "name": "غلوتامات أحادية الصوديوم (MSG)",
-    "category": "محسن نكهة",
-    "risk": "warn",
-    "desc": "يُستخدم لتحسين الطعم بشكل قوي",
-    "harms": "قد يسبب صداع أو حساسية لدى البعض عند الإفراط"
-  },
-  "E622": {
-    "name": "غلوتامات البوتاسيوم",
-    "category": "محسن نكهة",
-    "risk": "warn",
-    "desc": "بديل لـ MSG",
-    "harms": "قد يسبب أعراض خفيفة لدى بعض الأشخاص"
-  },
-  "E627": {
-    "name": "جوانيلات ثنائي الصوديوم",
-    "category": "محسن نكهة",
-    "risk": "warn",
-    "desc": "يعزز الطعم مع مواد أخرى",
-    "harms": "آمن بكميات صغيرة"
-  },
-  "E631": {
-    "name": "إينوسينات ثنائي الصوديوم",
-    "category": "محسن نكهة",
-    "risk": "warn",
-    "desc": "يستخدم مع MSG لتعزيز النكهة",
-    "harms": "قد يسبب حساسية بسيطة"
-  }
-{
-  "E620": {
-    "name": "حمض الجلوتاميك",
-    "category": "محسن نكهة",
-    "risk": "safe",
-    "desc": "مادة طبيعية مرتبطة بالبروتينات",
-    "harms": "آمن"
-  },
-  "E640": {
-    "name": "جلايسين ومشتقاته",
-    "category": "محسن نكهة",
-    "risk": "safe",
-    "desc": "أحماض أمينية تستخدم في النكهات",
-    "harms": "آمنة"
-  },
-  "E650": {
-    "name": "أسيتات الزنك",
-    "category": "مكمل معدني",
-    "risk": "safe",
-    "desc": "يستخدم كمصدر للزنك",
-    "harms": "آمن ضمن الحدود"
-  },
-  "E660": {
-    "name": "حمض الأديبيك",
-    "category": "منظم حموضة",
-    "risk": "low",
-    "desc": "يستخدم لضبط الحموضة",
-    "harms": "آمن بكميات صغيرة"
-  },
-  "E670": {
-    "name": "غلوكونات الكالسيوم",
-    "category": "مكمل معدني",
-    "risk": "safe",
-    "desc": "مصدر للكالسيوم",
-    "harms": "آمن"
-  },
-  "E675": {
-    "name": "فيتامين E أسيتات",
-    "category": "فيتامين",
-    "risk": "safe",
-    "desc": "مضاد أكسدة وفيتامين",
-    "harms": "آمن"
-  },
-  "E680": {
-    "name": "لاكتات الصوديوم",
-    "category": "مادة حافظة",
-    "risk": "safe",
-    "desc": "يحافظ على الطعام ويضبط الحموضة",
-    "harms": "آمن"
-  }
-{
-  "E700": {
-    "name": "بولي أوكسي إيثيلين (Tween 20)",
-    "category": "مستحلب",
-    "risk": "warn",
-    "desc": "يستخدم لخلط الزيوت مع الماء",
-    "harms": "آمن بجرعات صغيرة وقد يسبب حساسية بسيطة"
-  },
-  "E701": {
-    "name": "بروتينات البيض المعالجة",
-    "category": "مستحلب / مثبت",
-    "risk": "safe",
-    "desc": "تستخدم في تحسين قوام المنتجات",
-    "harms": "آمنة غذائيًا"
-  },
-  "E702": {
-    "name": "كازينات الصوديوم",
-    "category": "مستحلب",
-    "risk": "safe",
-    "desc": "مشتق من الحليب يستخدم كمثبت",
-    "harms": "آمن إلا لمن لديهم حساسية الألبان"
-  },
-  "E703": {
-    "name": "كازينات الكالسيوم",
-    "category": "مستحلب",
-    "risk": "safe",
-    "desc": "مشتق بروتيني من الحليب",
-    "harms": "آمن مع حساسية الألبان"
-  },
-  "E710": {
-    "name": "بنسيلين جي (آثار)",
-    "category": "مادة علاجية",
-    "risk": "danger",
-    "desc": "غير مسموح كإضافة غذائية فعليًا",
-    "harms": "مضاد حيوي وقد يسبب حساسية خطيرة"
-  },
-  "E720": {
-    "name": "إيزوبيوتيل نيتريت",
-    "category": "مادة نكهة / غير شائع",
-    "risk": "danger",
-    "desc": "مادة متطايرة تستخدم صناعيًا",
-    "harms": "قد تكون سامة وغير آمنة غذائيًا"
-  },
-  "E730": {
-    "name": "ثنائي فينيل أمين",
-    "category": "مضاد أكسدة",
-    "risk": "warn",
-    "desc": "يستخدم لحفظ الفواكه",
-    "harms": "قد يسبب تهيج عند التعرض العالي"
-  }
-{
-  "E900": {
-    "name": "دايميثيل بولي سيلوكسان",
-    "category": "مضاد رغوة",
-    "risk": "safe",
-    "desc": "يستخدم لمنع الرغوة في الزيوت",
-    "harms": "آمن غذائيًا"
-  },
-  "E901": {
-    "name": "شمع العسل",
-    "category": "مادة تلميع",
-    "risk": "safe",
-    "desc": "يستخدم في تلميع الحلويات",
-    "harms": "آمن"
-  },
-  "E902": {
-    "name": "شمع الكارنوبا",
-    "category": "مادة تلميع",
-    "risk": "safe",
-    "desc": "يستخدم لإعطاء لمعان للأطعمة",
-    "harms": "آمن"
-  },
-  "E903": {
-    "name": "شمع الكاندليلا",
-    "category": "مادة تلميع",
-    "risk": "safe",
-    "desc": "يستخدم في تغليف الحلويات",
-    "harms": "آمن"
-  },
-  "E950": {
-    "name": "أسيسولفام بوتاسيوم",
-    "category": "محلي صناعي",
-    "risk": "warn",
-    "desc": "محلي صناعي خالي من السعرات",
-    "harms": "قد يسبب جدل حول تأثيره على المدى الطويل"
-  },
-  "E951": {
-    "name": "أسبارتام",
-    "category": "محلي صناعي",
-    "risk": "warn",
-    "desc": "محلي منخفض السعرات",
-    "harms": "قد يسبب صداع لبعض الأشخاص"
-  },
-  "E952": {
-    "name": "سيكلامات",
-    "category": "محلي صناعي",
-    "risk": "warn",
-    "desc": "محلي صناعي",
-    "harms": "محظور في بعض الدول"
-  },
-  "E955": {
-    "name": "سكرالوز",
-    "category": "محلي صناعي",
-    "risk": "warn",
-    "desc": "محلي صناعي شديد الحلاوة",
-    "harms": "آمن نسبيًا لكن يفضل الاعتدال"
-  }{
-  "E1000": {
-    "name": "كولين",
-    "category": "مادة غذائية",
-    "risk": "safe",
-    "desc": "مركب طبيعي مهم للجسم",
-    "harms": "آمن"
-  },
-  "E1100": {
-    "name": "أميليز",
-    "category": "إنزيم",
-    "risk": "safe",
-    "desc": "إنزيم يساعد في تكسير النشويات",
-    "harms": "آمن"
-  },
-  "E1200": {
-    "name": "بولي دكستروز",
-    "category": "ألياف غذائية",
-    "risk": "safe",
-    "desc": "يستخدم كمصدر ألياف",
-    "harms": "قد يسبب انتفاخ بسيط"
-  }
-  }
+  "E585": {"name": "Ferrous Lactate", "category": "Nutrient", "risk": "Safe", "desc": "مكمل حديد"},
+  "E586": {"name": "4-Hexylresorcinol", "category": "Preservative", "risk": "Medium", "desc": "يستخدم في حفظ المأكولات البحرية"},
+  "E587": {"name": "Octyl Gallate", "category": "Antioxidant", "risk": "Medium", "desc": "يمنع أكسدة الدهون والزيوت"},
+  "E600": {"name": "Glutamic Acid", "category": "Flavor Enhancer", "risk": "Safe", "desc": "حمض أميني طبيعي مرتبط بالطعم"},
+  "E610": {"name": "Glycine", "category": "Flavor Enhancer", "risk": "Safe", "desc": "حمض أميني طبيعي"},
+  "E620": {"name": "Glutamic Acid", "category": "Flavor Enhancer", "risk": "Safe", "desc": "مادة طبيعية مرتبطة بالبروتينات"},
+  "E621": {"name": "Monosodium Glutamate (MSG)", "category": "Flavor Enhancer", "risk": "Medium", "desc": "يُستخدم لتحسين الطعم بشكل قوي"},
+  "E622": {"name": "Potassium Glutamate", "category": "Flavor Enhancer", "risk": "Medium", "desc": "بديل لـ MSG"},
+  "E627": {"name": "Disodium Guanylate", "category": "Flavor Enhancer", "risk": "Medium", "desc": "يعزز الطعم مع مواد أخرى"},
+  "E631": {"name": "Disodium Inosinate", "category": "Flavor Enhancer", "risk": "Medium", "desc": "يستخدم مع MSG لتعزيز النكهة"},
+  "E640": {"name": "Glycine and Derivatives", "category": "Flavor Enhancer", "risk": "Safe", "desc": "أحماض أمينية تستخدم في النكهات"},
+  "E650": {"name": "Zinc Acetate", "category": "Mineral Supplement", "risk": "Safe", "desc": "يستخدم كمصدر للزنك"},
+  "E660": {"name": "Adipic Acid", "category": "Acidity Regulator", "risk": "Safe", "desc": "يستخدم لضبط الحموضة"},
+  "E670": {"name": "Calcium Gluconate", "category": "Mineral Supplement", "risk": "Safe", "desc": "مصدر للكالسيوم"},
+  "E675": {"name": "Vitamin E Acetate", "category": "Vitamin", "risk": "Safe", "desc": "مضاد أكسدة وفيتامين"},
+  "E680": {"name": "Sodium Lactate", "category": "Preservative", "risk": "Safe", "desc": "يحافظ على الطعام ويضبط الحموضة"},
+  "E700": {"name": "Polyoxyethylene (Tween 20)", "category": "Emulsifier", "risk": "Medium", "desc": "يستخدم لخلط الزيوت مع الماء"},
+  "E701": {"name": "Processed Egg Proteins", "category": "Emulsifier", "risk": "Safe", "desc": "تستخدم في تحسين قوام المنتجات"},
+  "E702": {"name": "Sodium Caseinate", "category": "Emulsifier", "risk": "Safe", "desc": "مشتق من الحليب يستخدم كمثبت"},
+  "E703": {"name": "Calcium Caseinate", "category": "Emulsifier", "risk": "Safe", "desc": "مشتق بروتيني من الحليب"},
+  "E710": {"name": "Penicillin G (Traces)", "category": "Medicinal", "risk": "High", "desc": "غير مسموح كإضافة غذائية فعليًا"},
+  "E720": {"name": "Isobutyl Nitrite", "category": "Flavoring", "risk": "High", "desc": "مادة متطايرة تستخدم صناعيًا"},
+  "E730": {"name": "Diphenylamine", "category": "Antioxidant", "risk": "Medium", "desc": "يستخدم لحفظ الفواكه"},
+  "E900": {"name": "Dimethyl Polysiloxane", "category": "Anti-foaming", "risk": "Safe", "desc": "يستخدم لمنع الرغوة في الزيوت"},
+  "E901": {"name": "Beeswax", "category": "Glazing Agent", "risk": "Safe", "desc": "يستخدم في تلميع الحلويات"},
+  "E902": {"name": "Carnauba Wax", "category": "Glazing Agent", "risk": "Safe", "desc": "يستخدم لإعطاء لمعان للأطعمة"},
+  "E903": {"name": "Candelilla Wax", "category": "Glazing Agent", "risk": "Safe", "desc": "يستخدم في تغليف الحلويات"},
+  "E950": {"name": "Acesulfame K", "category": "Sweetener", "risk": "Medium", "desc": "محلي صناعي خالي من السعرات"},
+  "E951": {"name": "Aspartame", "category": "Sweetener", "risk": "Medium", "desc": "محلي منخفض السعرات"},
+  "E952": {"name": "Cyclamate", "category": "Sweetener", "risk": "Medium", "desc": "محلي صناعي"},
+  "E955": {"name": "Sucralose", "category": "Sweetener", "risk": "Medium", "desc": "محلي صناعي شديد الحلاوة"},
+  "E1000": {"name": "Choline", "category": "Nutrient", "risk": "Safe", "desc": "مركب طبيعي مهم للجسم"},
+  "E1100": {"name": "Amylase", "category": "Enzyme", "risk": "Safe", "desc": "إنزيم يساعد في تكسير النشويات"},
+  "E1200": {"name": "Polydextrose", "category": "Dietary Fiber", "risk": "Safe", "desc": "يستخدم كمصدر ألياف"}
 }
