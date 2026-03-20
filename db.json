@@ -1,27 +1,35 @@
 {
-  "E102": {
-    "name": "Tartrazine",
-    "risk": "warn",
-    "desc": "قد يسبب حساسية وفرط نشاط"
-  },
-  "E110": {
-    "name": "Sunset Yellow",
-    "risk": "warn",
-    "desc": "قد يسبب حساسية"
-  },
-  "E129": {
-    "name": "Allura Red",
-    "risk": "warn",
-    "desc": "فرط حركة"
-  },
-  "E621": {
-    "name": "Monosodium Glutamate",
-    "risk": "high",
-    "desc": "قد يسبب صداع"
-  },
-  "E250": {
-    "name": "Sodium Nitrite",
-    "risk": "danger",
-    "desc": "مرتبط بمخاطر صحية"
-  }
+  "E100": { "name": "Curcumin", "risk": "safe", "desc": "مستخلص طبيعي من الكركم" },
+  "E101": { "name": "Riboflavin", "risk": "safe", "desc": "فيتامين B2" },
+  "E102": { "name": "Tartrazine", "risk": "warn", "desc": "قد يسبب حساسية وفرط نشاط" },
+  "E104": { "name": "Quinoline Yellow", "risk": "warn", "desc": "قد يسبب حساسية" },
+  "E110": { "name": "Sunset Yellow", "risk": "warn", "desc": "قد يسبب حساسية" },
+  "E120": { "name": "Cochineal", "risk": "warn", "desc": "ملون طبيعي قد يسبب حساسية" },
+  "E122": { "name": "Carmoisine", "risk": "warn", "desc": "ملون صناعي قد يسبب حساسية" },
+  "E124": { "name": "Ponceau 4R", "risk": "warn", "desc": "ملون صناعي" },
+  "E129": { "name": "Allura Red", "risk": "warn", "desc": "فرط حركة لدى الأطفال" },
+  "E133": { "name": "Brilliant Blue", "risk": "safe", "desc": "ملون صناعي معتمد" },
+
+  "E200": { "name": "Sorbic Acid", "risk": "safe", "desc": "مادة حافظة" },
+  "E202": { "name": "Potassium Sorbate", "risk": "warn", "desc": "قد يسبب حساسية خفيفة" },
+  "E211": { "name": "Sodium Benzoate", "risk": "warn", "desc": "قد يتفاعل مع فيتامين C" },
+  "E220": { "name": "Sulfur Dioxide", "risk": "warn", "desc": "قد يسبب مشاكل تنفسية" },
+  "E223": { "name": "Sodium Metabisulfite", "risk": "warn", "desc": "قد يسبب حساسية" },
+
+  "E300": { "name": "Ascorbic Acid", "risk": "safe", "desc": "فيتامين C" },
+  "E306": { "name": "Tocopherol", "risk": "safe", "desc": "فيتامين E" },
+
+  "E322": { "name": "Lecithin", "risk": "safe", "desc": "مستحلب طبيعي" },
+  "E330": { "name": "Citric Acid", "risk": "safe", "desc": "حمض الستريك الطبيعي" },
+
+  "E407": { "name": "Carrageenan", "risk": "warn", "desc": "قد يسبب مشاكل هضمية" },
+  "E412": { "name": "Guar Gum", "risk": "safe", "desc": "مكثف طبيعي" },
+  "E415": { "name": "Xanthan Gum", "risk": "safe", "desc": "مكثف غذائي" },
+
+  "E621": { "name": "Monosodium Glutamate", "risk": "high", "desc": "قد يسبب صداع لدى البعض" },
+  "E627": { "name": "Disodium Guanylate", "risk": "warn", "desc": "معزز نكهة" },
+  "E631": { "name": "Disodium Inosinate", "risk": "warn", "desc": "معزز نكهة" },
+
+  "E250": { "name": "Sodium Nitrite", "risk": "danger", "desc": "مرتبط بمخاطر صحية" },
+  "E251": { "name": "Sodium Nitrate", "risk": "danger", "desc": "مادة حافظة في اللحوم المصنعة" }
 }
