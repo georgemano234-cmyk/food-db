@@ -1,0 +1,27 @@
+{
+  "E102": {
+    "name": "Tartrazine",
+    "risk": "warn",
+    "desc": "قد يسبب حساسية وفرط نشاط"
+  },
+  "E110": {
+    "name": "Sunset Yellow",
+    "risk": "warn",
+    "desc": "قد يسبب حساسية"
+  },
+  "E129": {
+    "name": "Allura Red",
+    "risk": "warn",
+    "desc": "فرط حركة"
+  },
+  "E621": {
+    "name": "Monosodium Glutamate",
+    "risk": "high",
+    "desc": "قد يسبب صداع"
+  },
+  "E250": {
+    "name": "Sodium Nitrite",
+    "risk": "danger",
+    "desc": "مرتبط بمخاطر صحية"
+  }
+}
