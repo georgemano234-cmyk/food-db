@@ -15,8 +15,8 @@
   "E150d": {"name": "Caramel Color IV", "category": "Colorant", "risk": "Medium", "desc": "لون كراميل صناعي"},
   "E160a": {"name": "Beta-carotene", "category": "Colorant", "risk": "Safe", "desc": "فيتامين A ملون"},
   "E160c": {"name": "Paprika Extract", "category": "Colorant", "risk": "Safe", "desc": "ملون طبيعي من الفلفل"},
-  "E162": {"name": "Beetroot Red", "category": "Colorant", "risk": "Safe", "desc": "ملون من البنجر"}
-{
+  "E162": {"name": "Beetroot Red", "category": "Colorant", "risk": "Safe", "desc": "ملون من البنجر"},
+
   "E200": {"name": "Sorbic Acid", "category": "Preservative", "risk": "Safe", "desc": "يمنع نمو الفطريات"},
   "E202": {"name": "Potassium Sorbate", "category": "Preservative", "risk": "Medium", "desc": "مادة حافظة شائعة"},
   "E210": {"name": "Benzoic Acid", "category": "Preservative", "risk": "Medium", "desc": "مادة حافظة"},
@@ -25,16 +25,16 @@
   "E223": {"name": "Sodium Metabisulfite", "category": "Preservative", "risk": "Medium", "desc": "مادة حافظة"},
   "E249": {"name": "Potassium Nitrite", "category": "Preservative", "risk": "High", "desc": "مرتبط بمخاطر صحية"},
   "E250": {"name": "Sodium Nitrite", "category": "Preservative", "risk": "High", "desc": "في اللحوم المصنعة"},
-  "E251": {"name": "Sodium Nitrate", "category": "Preservative", "risk": "High", "desc": "حافظة في اللحوم"}
-{
+  "E251": {"name": "Sodium Nitrate", "category": "Preservative", "risk": "High", "desc": "حافظة في اللحوم"},
+
   "E300": {"name": "Ascorbic Acid", "category": "Antioxidant", "risk": "Safe", "desc": "فيتامين C"},
   "E301": {"name": "Sodium Ascorbate", "category": "Antioxidant", "risk": "Safe", "desc": "مشتق فيتامين C"},
   "E306": {"name": "Tocopherol", "category": "Antioxidant", "risk": "Safe", "desc": "فيتامين E"},
   "E307": {"name": "Alpha-tocopherol", "category": "Antioxidant", "risk": "Safe", "desc": "مضاد أكسدة طبيعي"},
   "E330": {"name": "Citric Acid", "category": "Acidity Regulator", "risk": "Safe", "desc": "منظم حموضة"},
   "E331": {"name": "Sodium Citrate", "category": "Acidity Regulator", "risk": "Safe", "desc": "منظم حموضة"},
-  "E338": {"name": "Phosphoric Acid", "category": "Acidity Regulator", "risk": "Medium", "desc": "يستخدم في المشروبات الغازية"}
-{
+  "E338": {"name": "Phosphoric Acid", "category": "Acidity Regulator", "risk": "Medium", "desc": "يستخدم في المشروبات الغازية"},
+
   "E400": {"name": "Alginic Acid", "category": "Thickener", "risk": "Safe", "desc": "مكثف طبيعي من الطحالب"},
   "E401": {"name": "Sodium Alginate", "category": "Thickener", "risk": "Safe", "desc": "مستخرج من الطحالب"},
   "E402": {"name": "Potassium Alginate", "category": "Thickener", "risk": "Safe", "desc": "مكثف طبيعي"},
@@ -64,8 +64,7 @@
   "E476": {"name": "Polyglycerol Polyricinoleate", "category": "Emulsifier", "risk": "Medium", "desc": "يستخدم في الشوكولاتة"},
   "E481": {"name": "Sodium Stearoyl Lactylate", "category": "Emulsifier", "risk": "Safe", "desc": "مستحلب"},
   "E482": {"name": "Calcium Stearoyl Lactylate", "category": "Emulsifier", "risk": "Safe", "desc": "مستحلب"},
-  "E500": {"name": "Sodium Carbonate", "category": "Acidity Regulator", "risk": "Safe", "desc": "منظم حموضة"}
-{
+
   "E500": {"name": "Sodium Carbonate", "category": "Acidity Regulator", "risk": "Safe", "desc": "منظم حموضة ويستخدم في الخَبز"},
   "E501": {"name": "Potassium Carbonate", "category": "Acidity Regulator", "risk": "Safe", "desc": "منظم حموضة"},
   "E503": {"name": "Ammonium Carbonate", "category": "Leavening Agent", "risk": "Medium", "desc": "عامل رفع في المخبوزات"},
@@ -103,4 +102,4 @@
   "E578": {"name": "Calcium Gluconate", "category": "Acidity Regulator", "risk": "Safe", "desc": "مكمل غذائي"},
   "E579": {"name": "Ferrous Gluconate", "category": "Nutrient", "risk": "Safe", "desc": "مصدر للحديد"},
   "E585": {"name": "Ferrous Lactate", "category": "Nutrient", "risk": "Safe", "desc": "مكمل حديد"}
-  }
+}
