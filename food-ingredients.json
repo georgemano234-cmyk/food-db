@@ -1,61 +1,83 @@
 {
-  "Flavor Enhancers (محسنات الطعم)": [
+  "Flavor Enhancers & Flavors (محسنات الطعم والنكهات)": [
     { "name_en": "Monosodium Glutamate", "name_ar": "جلوتامات أحادي الصوديوم", "code": "MSG", "risk": "warn" },
     { "name_en": "Disodium Inosinate", "name_ar": "ثنائي صوديوم إينوسينات", "code": "IMP", "risk": "warn" },
     { "name_en": "Disodium Guanylate", "name_ar": "ثنائي صوديوم جوانيلات", "code": "GMP", "risk": "warn" },
-    { "name_en": "Yeast Extract", "name_ar": "مستخلص الخميرة", "risk": "low" }
+    { "name_en": "Yeast Extract", "name_ar": "مستخلص الخميرة", "risk": "low" },
+    { "name_en": "Hydrolyzed Vegetable Protein", "name_ar": "بروتين نباتي متحلل", "code": "HVP", "risk": "warn" },
+    { "name_en": "Autolyzed Yeast", "name_ar": "خميرة ذاتية التحلل", "risk": "low" },
+    { "name_en": "Maltodextrin", "name_ar": "مالتوديكسترين", "risk": "low" },
+    { "name_en": "Natural Flavor", "name_ar": "نكهة طبيعية", "risk": "low" },
+    { "name_en": "Artificial Flavor", "name_ar": "نكهة صناعية", "risk": "low" },
+    { "name_en": "Nature-Identical Flavor", "name_ar": "نكهة مطابقة للطبيعة", "risk": "low" },
+    { "name_en": "Vanillin", "name_ar": "فانيلين", "risk": "low" },
+    { "name_en": "Ethyl Vanillin", "name_ar": "إيثيل فانيلين", "risk": "low" },
+    { "name_en": "Smoke Flavor", "name_ar": "نكهة تدخين", "risk": "warn" }
   ],
 
-  "Sweeteners (محليات صناعية)": [
+  "Sweeteners & Sugar Derivatives (المحليات ومشتقات السكر)": [
     { "name_en": "Aspartame", "name_ar": "أسبارتام", "risk": "warn" },
     { "name_en": "Sucralose", "name_ar": "سكرالوز", "risk": "low" },
     { "name_en": "Saccharin", "name_ar": "ساكارين", "risk": "warn" },
     { "name_en": "Acesulfame K", "name_ar": "أسيسلفام بوتاسيوم", "risk": "warn" },
-    { "name_en": "Stevia", "name_ar": "ستيفيا", "risk": "low" }
+    { "name_en": "Stevia", "name_ar": "ستيفيا", "risk": "low" },
+    { "name_en": "High Fructose Corn Syrup", "name_ar": "شراب الذرة عالي الفركتوز", "code": "HFCS", "risk": "danger" },
+    { "name_en": "Dextrose", "name_ar": "ديكستروز", "risk": "low" },
+    { "name_en": "Fructose", "name_ar": "فركتوز / سكر فاكهة", "risk": "low" },
+    { "name_en": "Sorbitol", "name_ar": "سوربيتول", "risk": "low" },
+    { "name_en": "Xylitol", "name_ar": "زيليتول", "risk": "low" },
+    { "name_en": "Erythritol", "name_ar": "إريثريتول", "risk": "low" },
+    { "name_en": "Corn Syrup Solids", "name_ar": "جوامد شراب الذرة", "risk": "warn" },
+    { "name_en": "Invert Sugar", "name_ar": "سكر محول", "risk": "low" }
   ],
 
-  "Fats & Oils (الدهون)": [
+  "Fats & Oils (الدهون والزيوت)": [
     { "name_en": "Palm Oil", "name_ar": "زيت النخيل", "risk": "low" },
     { "name_en": "Palm Kernel Oil", "name_ar": "زيت نواة النخيل", "risk": "low" },
     { "name_en": "Hydrogenated Oils", "name_ar": "زيوت مهدرجة", "risk": "danger" },
     { "name_en": "Fractionated Oils", "name_ar": "زيوت مجزأة", "risk": "low" },
-    { "name_en": "Interesterified Fats", "name_ar": "دهون معاد تركيبها", "risk": "warn" }
+    { "name_en": "Interesterified Fats", "name_ar": "دهون معاد تركيبها", "risk": "warn" },
+    { "name_en": "Brominated Vegetable Oil", "name_ar": "زيت نباتي مبروم", "code": "BVO", "risk": "danger" }
   ],
 
-  "Preservatives (مواد حافظة)": [
+  "Preservatives & Antioxidants (المواد الحافظة ومضادات الأكسدة)": [
     { "name_en": "Sodium Benzoate", "name_ar": "بنزوات الصوديوم", "risk": "warn" },
     { "name_en": "Potassium Sorbate", "name_ar": "سوربات البوتاسيوم", "risk": "low" },
     { "name_en": "Calcium Propionate", "name_ar": "بروبيونات الكالسيوم", "risk": "low" },
     { "name_en": "Sodium Nitrite", "name_ar": "نتريت الصوديوم", "risk": "danger" },
-    { "name_en": "Nitrites / Nitrates", "name_ar": "نترات / نتريت", "risk": "danger" }
-  ],
-
-  "Antioxidants (مضادات الأكسدة)": [
+    { "name_en": "Nitrites / Nitrates", "name_ar": "نترات / نتريت", "risk": "danger" },
+    { "name_en": "Potassium Bromate", "name_ar": "برومات البوتاسيوم", "risk": "danger" },
     { "name_en": "BHA", "name_ar": "بي إتش إيه", "risk": "warn" },
     { "name_en": "BHT", "name_ar": "بي إتش تي", "risk": "warn" },
     { "name_en": "TBHQ", "name_ar": "تي بي إتش كيو", "risk": "warn" },
     { "name_en": "Tocopherols", "name_ar": "توكوفيرول (فيتامين هـ)", "risk": "low" }
   ],
 
-  "Thickeners & Stabilizers (مثخنات ومثبتات)": [
+  "Dairy & Protein Derivatives (مشتقات الألبان والبروتين)": [
+    { "name_en": "Sodium Caseinate", "name_ar": "كازينات الصوديوم", "risk": "low" },
+    { "name_en": "Whey Powder", "name_ar": "مسحوق مصل اللبن", "risk": "low" },
+    { "name_en": "Milk Powder", "name_ar": "حليب مجفف", "risk": "low" },
+    { "name_en": "Soy Protein Isolate", "name_ar": "بروتين صويا معزول", "risk": "low" },
+    { "name_en": "Textured Vegetable Protein", "name_ar": "بروتين نباتي معالج", "risk": "low" }
+  ],
+
+  "Thickeners & Emulsifiers (مثخنات ومستحلبات)": [
     { "name_en": "Xanthan Gum", "name_ar": "صمغ زانثان", "risk": "low" },
     { "name_en": "Guar Gum", "name_ar": "صمغ الغوار", "risk": "low" },
     { "name_en": "Carrageenan", "name_ar": "كاراجينان", "risk": "warn" },
-    { "name_en": "Pectin", "name_ar": "بكتين", "risk": "low" },
-    { "name_en": "Gelatin", "name_ar": "جيلاتين", "risk": "low" },
-    { "name_en": "Modified Starch", "name_ar": "نشا معدل", "risk": "low" }
+    { "name_en": "Soy Lecithin", "name_ar": "ليسيثين الصويا", "risk": "low" },
+    { "name_en": "Mono- and Diglycerides", "name_ar": "أحادية وثنائية الجلسريدات", "risk": "low" },
+    { "name_en": "Modified Starch", "name_ar": "نشا معدل", "risk": "low" },
+    { "name_en": "Gum Arabic", "name_ar": "الصمغ العربي", "risk": "low" },
+    { "name_en": "Agar-Agar", "name_ar": "أجار أجار", "risk": "low" },
+    { "name_en": "Pectin", "name_ar": "بكتين", "risk": "low" }
   ],
 
-  "Meat Extenders (موسعات اللحوم)": [
-    { "name_en": "Soy Protein", "name_ar": "بروتين الصويا", "risk": "low" },
-    { "name_en": "Textured Vegetable Protein", "name_ar": "بروتين نباتي معالج", "risk": "low" },
-    { "name_en": "Starch", "name_ar": "نشا", "risk": "low" },
-    { "name_en": "Phosphates", "name_ar": "فوسفات", "risk": "warn" }
-  ],
-
-  "Food Colors (ملونات غذائية)": [
-    { "name_en": "Tartrazine", "name_ar": "تارترازين", "code": "E102", "risk": "warn" },
+  "Food Colors (ملونات غذائية بالاسم)": [
+    { "name_en": "Titanium Dioxide", "name_ar": "ثاني أكسيد التيتانيوم", "code": "E171", "risk": "danger" },
+    { "name_en": "Allura Red", "name_ar": "أحمر ألورا", "code": "E129", "risk": "warn" },
     { "name_en": "Sunset Yellow", "name_ar": "صفراء الغروب", "code": "E110", "risk": "warn" },
+    { "name_en": "Tartrazine", "name_ar": "تارترازين", "code": "E102", "risk": "warn" },
     { "name_en": "Carmine", "name_ar": "كارمين", "risk": "low" },
     { "name_en": "Caramel Color", "name_ar": "لون الكراميل", "risk": "low" }
   ],
@@ -64,6 +86,6 @@
     { "name_en": "Citric Acid", "name_ar": "حمض الستريك", "risk": "low" },
     { "name_en": "Lactic Acid", "name_ar": "حمض اللاكتيك", "risk": "low" },
     { "name_en": "Phosphoric Acid", "name_ar": "حمض الفوسفوريك", "risk": "warn" },
-    { "name_en": "Sodium Citrate", "name_ar": "سيترات الصوديوم", "risk": "low" }
+    { "name_en": "Propylene Glycol", "name_ar": "بروبيلين جليكول", "risk": "warn" }
   ]
 }
