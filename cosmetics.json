@@ -1,0 +1,513 @@
+{
+  "🧼 Surfactants & Cleansers (المواد الفعالة والمنظفات)": [
+    {
+      "name_en": "Sodium Laureth Sulfate",
+      "name_ar": "كبريتات لوريث الصوديوم",
+      "code": "SLES",
+      "risk": "warn",
+      "info": "منظف قوي قد يسبب تهيج للبشرة الحساسة"
+    },
+    {
+      "name_en": "Sodium Lauryl Sulfate",
+      "name_ar": "كبريتات لوريل الصوديوم",
+      "code": "SLS",
+      "risk": "warn",
+      "info": "منظف قوي جداً، قد يسبب جفاف وتهيج"
+    },
+    {
+      "name_en": "Cocamidopropyl Betaine",
+      "name_ar": "كوكاميدوبروبيل بيتين",
+      "risk": "low",
+      "info": "منظف لطيف مشتق من جوز الهند"
+    },
+    {
+      "name_en": "Cocamide MEA",
+      "name_ar": "كوكاميد أحادي ايثانول أمين",
+      "risk": "warn",
+      "info": "مكثف ورغوة، قد يسبب حساسية للبعض"
+    },
+    {
+      "name_en": "Cocamide DEA",
+      "name_ar": "كوكاميد ثنائي ايثانول أمين",
+      "risk": "danger",
+      "info": "قد يكون مادة مسرطنة محتملة، يفضل تجنبه"
+    },
+    {
+      "name_en": "Disodium Laureth Sulfosuccinate",
+      "name_ar": "ثنائي صوديوم لوريث سلفوسوكسينيت",
+      "risk": "low",
+      "info": "منظف لطيف مناسب للبشرة الحساسة"
+    },
+    {
+      "name_en": "Sodium C14-16 Olefin Sulfonate",
+      "name_ar": "سلفونات الأوليفين الصوديوم",
+      "risk": "warn",
+      "info": "منظف قوي، قد يسبب جفاف للبشرة"
+    },
+    {
+      "name_en": "Decyl Glucoside",
+      "name_ar": "ديسيل جلوكوزيد",
+      "risk": "low",
+      "info": "منظف طبيعي لطيف جداً"
+    },
+    {
+      "name_en": "Lauryl Glucoside",
+      "name_ar": "لوريل جلوكوزيد",
+      "risk": "low",
+      "info": "منظف طبيعي لطيف"
+    }
+  ],
+
+  "🧴 Preservatives (المواد الحافظة)": [
+    {
+      "name_en": "Phenoxyethanol",
+      "name_ar": "فينوكسي إيثانول",
+      "risk": "low",
+      "info": "مادة حافظة شائعة، آمنة ضمن التركيزات المسموحة"
+    },
+    {
+      "name_en": "Ethylhexylglycerin",
+      "name_ar": "إيثيل هكسيل جلسرين",
+      "risk": "low",
+      "info": "مادة حافظة ومُرطب"
+    },
+    {
+      "name_en": "Caprylyl Glycol",
+      "name_ar": "كابريليل جلايكول",
+      "risk": "low",
+      "info": "مُرطب ومادة حافظة لطيفة"
+    },
+    {
+      "name_en": "Disodium EDTA",
+      "name_ar": "ثنائي صوديوم إيديتا",
+      "risk": "low",
+      "info": "محسن للثبات، يساعد في عمل المواد الحافظة"
+    },
+    {
+      "name_en": "Sodium Benzoate",
+      "name_ar": "بنزوات الصوديوم",
+      "risk": "low",
+      "info": "مادة حافظة، آمنة ضمن التركيزات المسموحة"
+    },
+    {
+      "name_en": "Potassium Sorbate",
+      "name_ar": "سوربات البوتاسيوم",
+      "risk": "low",
+      "info": "مادة حافظة، تستخدم في مستحضرات التجميل"
+    },
+    {
+      "name_en": "Benzyl Alcohol",
+      "name_ar": "كحول بنزيل",
+      "risk": "warn",
+      "info": "مادة حافظة، قد تسبب تهيج للبشرة الحساسة"
+    },
+    {
+      "name_en": "Methylparaben",
+      "name_ar": "ميثيل بارابين",
+      "risk": "warn",
+      "info": "مادة حافظة، قد تسبب اضطرابات هرمونية"
+    },
+    {
+      "name_en": "Propylparaben",
+      "name_ar": "بروبيل بارابين",
+      "risk": "warn",
+      "info": "مادة حافظة، قد تسبب اضطرابات هرمونية"
+    },
+    {
+      "name_en": "Ethylparaben",
+      "name_ar": "إيثيل بارابين",
+      "risk": "warn",
+      "info": "مادة حافظة، قد تسبب اضطرابات هرمونية"
+    }
+  ],
+
+  "💆‍♀️ Hair Care & Conditioning (العناية بالشعر والترطيب)": [
+    {
+      "name_en": "Amodimethicone",
+      "name_ar": "أموديثيكون",
+      "risk": "low",
+      "info": "سيليكون للشعر، يعطي نعومة ولمعان"
+    },
+    {
+      "name_en": "Guar Hydroxypropyltrimonium Chloride",
+      "name_ar": "جوار هيدروكسي بروبيل ترايمونيوم كلوريد",
+      "risk": "low",
+      "info": "مكثف ومنعم للشعر"
+    },
+    {
+      "name_en": "Polyquaternium-7",
+      "name_ar": "بولي كواتيرنيوم 7",
+      "risk": "low",
+      "info": "بوليمر للعناية بالشعر"
+    },
+    {
+      "name_en": "Polyquaternium-10",
+      "name_ar": "بولي كواتيرنيوم 10",
+      "risk": "low",
+      "info": "بوليمر للعناية بالشعر، يمنع الكهرباء الساكنة"
+    },
+    {
+      "name_en": "Polyquaternium-28",
+      "name_ar": "بولي كواتيرنيوم 28",
+      "risk": "low",
+      "info": "بوليمر مثبت للشعر"
+    },
+    {
+      "name_en": "Hydrolyzed Keratin",
+      "name_ar": "كيراتين متحلل",
+      "risk": "low",
+      "info": "بروتين لتقوية وترميم الشعر"
+    },
+    {
+      "name_en": "Hydrolyzed Collagen",
+      "name_ar": "كولاجين متحلل",
+      "risk": "low",
+      "info": "بروتين للترطيب وتقوية الشعر"
+    },
+    {
+      "name_en": "Hydrolyzed Silk",
+      "name_ar": "حرير متحلل",
+      "risk": "low",
+      "info": "بروتين للترطيب والنعومة"
+    },
+    {
+      "name_en": "Cetrimonium Chloride",
+      "name_ar": "سيترمونيوم كلوريد",
+      "risk": "warn",
+      "info": "مادة مضادة للكهرباء الساكنة، قد تسبب تهيج للعين"
+    },
+    {
+      "name_en": "Behentrimonium Chloride",
+      "name_ar": "بيهينترمونيوم كلوريد",
+      "risk": "low",
+      "info": "مادة منعمة للشعر، مشتقة من زيت بذور اللفت"
+    },
+    {
+      "name_en": "Panthenol",
+      "name_ar": "بانثينول (فيتامين B5)",
+      "risk": "low",
+      "info": "فيتامين للشعر والبشرة، يرطب ويقوي"
+    },
+    {
+      "name_en": "Biotin",
+      "name_ar": "بيوتين (فيتامين B7)",
+      "risk": "low",
+      "info": "فيتامين لتقوية الشعر والأظافر"
+    },
+    {
+      "name_en": "Argan Oil",
+      "name_ar": "زيت الأركان",
+      "risk": "low",
+      "info": "زيت مغذي للشعر والبشرة"
+    },
+    {
+      "name_en": "Coconut Oil",
+      "name_ar": "زيت جوز الهند",
+      "risk": "low",
+      "info": "زيت طبيعي مرطب ومغذي"
+    },
+    {
+      "name_en": "Jojoba Oil",
+      "name_ar": "زيت الجوجوبا",
+      "risk": "low",
+      "info": "زيت مشابه لدهون البشرة الطبيعية"
+    }
+  ],
+
+  "🧴 Skincare & Moisturizers (العناية بالبشرة والمرطبات)": [
+    {
+      "name_en": "Glycerin",
+      "name_ar": "جلسرين",
+      "risk": "low",
+      "info": "مرطب طبيعي ممتاز"
+    },
+    {
+      "name_en": "Propylene Glycol",
+      "name_ar": "بروبيلين جلايكول",
+      "risk": "low",
+      "info": "مرطب ومذيب، آمن للاستخدام"
+    },
+    {
+      "name_en": "Butylene Glycol",
+      "name_ar": "بيوتيلين جلايكول",
+      "risk": "low",
+      "info": "مرطب ومذيب، آمن للاستخدام"
+    },
+    {
+      "name_en": "Pentylene Glycol",
+      "name_ar": "بنتيلين جلايكول",
+      "risk": "low",
+      "info": "مرطب ومادة حافظة مساعدة"
+    },
+    {
+      "name_en": "Hyaluronic Acid",
+      "name_ar": "حمض الهيالورونيك",
+      "risk": "low",
+      "info": "مرطب قوي، يحتفظ بالماء في البشرة"
+    },
+    {
+      "name_en": "Niacinamide",
+      "name_ar": "نياسيناميد (فيتامين B3)",
+      "risk": "low",
+      "info": "فيتامين لتفتيح البشرة وتقليل المسام"
+    },
+    {
+      "name_en": "Ceramides",
+      "name_ar": "سيراميدات",
+      "risk": "low",
+      "info": "تعيد حاجز البشرة الطبيعي"
+    },
+    {
+      "name_en": "Retinol",
+      "name_ar": "ريتينول (فيتامين A)",
+      "risk": "warn",
+      "info": "مضاد للشيخوخة، قد يسبب تهيج للبشرة الحساسة"
+    },
+    {
+      "name_en": "Vitamin C",
+      "name_ar": "فيتامين C",
+      "risk": "low",
+      "info": "مضاد أكسدة، يفتح البشرة ويوحد لونها"
+    },
+    {
+      "name_en": "Salicylic Acid",
+      "name_ar": "حمض الساليسيليك",
+      "risk": "warn",
+      "info": "مقشر للبشرة، مفيد لحب الشباب، قد يسبب جفاف"
+    },
+    {
+      "name_en": "Glycolic Acid",
+      "name_ar": "حمض الجليكوليك",
+      "risk": "warn",
+      "info": "مقشر كيميائي، قد يسبب تهيج للبشرة الحساسة"
+    },
+    {
+      "name_en": "Lactic Acid",
+      "name_ar": "حمض اللاكتيك",
+      "risk": "low",
+      "info": "مقشر لطيف ومرطب"
+    },
+    {
+      "name_en": "Shea Butter",
+      "name_ar": "زبدة الشيا",
+      "risk": "low",
+      "info": "مرطب طبيعي غني بالفيتامينات"
+    },
+    {
+      "name_en": "Aloe Vera",
+      "name_ar": "صبار الألوفيرا",
+      "risk": "low",
+      "info": "مرطب طبيعي ومهدئ للبشرة"
+    },
+    {
+      "name_en": "Squalane",
+      "name_ar": "سكوالين",
+      "risk": "low",
+      "info": "مرطب خفيف مشابه لدهون البشرة"
+    }
+  ],
+
+  "🦷 Oral Care (منتجات العناية بالأسنان)": [
+    {
+      "name_en": "Sodium Fluoride",
+      "name_ar": "فلوريد الصوديوم",
+      "risk": "low",
+      "info": "مقوي للأسنان، يمنع التسوس"
+    },
+    {
+      "name_en": "Sodium Monofluorophosphate",
+      "name_ar": "أحادي فلوروفوسفات الصوديوم",
+      "risk": "low",
+      "info": "مصدر للفلورايد لحماية الأسنان"
+    },
+    {
+      "name_en": "Stannous Fluoride",
+      "name_ar": "فلوريد القصدير",
+      "risk": "low",
+      "info": "مقوي للأسنان، مضاد للبكتيريا"
+    },
+    {
+      "name_en": "Xylitol",
+      "name_ar": "زيليتول",
+      "risk": "low",
+      "info": "محلي طبيعي، يمنع تسوس الأسنان"
+    },
+    {
+      "name_en": "Sorbitol",
+      "name_ar": "سوربيتول",
+      "risk": "low",
+      "info": "محلي ومرطب في معجون الأسنان"
+    },
+    {
+      "name_en": "Hydrated Silica",
+      "name_ar": "سيليكا مائية",
+      "risk": "low",
+      "info": "مادة كاشطة لتنظيف الأسنان"
+    },
+    {
+      "name_en": "Calcium Carbonate",
+      "name_ar": "كربونات الكالسيوم",
+      "risk": "low",
+      "info": "مادة كاشطة طبيعية لتنظيف الأسنان"
+    },
+    {
+      "name_en": "Sodium Bicarbonate",
+      "name_ar": "بيكربونات الصوديوم",
+      "risk": "low",
+      "info": "مبيض طبيعي للأسنان"
+    },
+    {
+      "name_en": "Triclosan",
+      "name_ar": "ترايكلوسان",
+      "risk": "danger",
+      "info": "مضاد بكتيريا، مرتبط باضطرابات هرمونية"
+    },
+    {
+      "name_en": "Cetylpyridinium Chloride",
+      "name_ar": "سيتيل بيريدينيوم كلوريد",
+      "risk": "low",
+      "info": "مضاد للبكتيريا في غسول الفم"
+    },
+    {
+      "name_en": "Potassium Nitrate",
+      "name_ar": "نترات البوتاسيوم",
+      "risk": "low",
+      "info": "مادة مسكنة لحساسية الأسنان"
+    }
+  ],
+
+  "🌿 Anti-Dandruff & Actives (مضادات القشرة والمكونات النشطة)": [
+    {
+      "name_en": "Piroctone Olamine",
+      "name_ar": "بيروكتون أولامين",
+      "risk": "low",
+      "info": "مضاد للفطريات، فعال ضد قشرة الشعر"
+    },
+    {
+      "name_en": "Zinc Pyrithione",
+      "name_ar": "زنك بيريثيون",
+      "risk": "warn",
+      "info": "مضاد للقشرة والفطريات، قد يسبب تهيج للبشرة"
+    },
+    {
+      "name_en": "Ketoconazole",
+      "name_ar": "كيتوكونازول",
+      "risk": "low",
+      "info": "مضاد فطري قوي، يستخدم لعلاج قشرة الشعر"
+    },
+    {
+      "name_en": "Selenium Sulfide",
+      "name_ar": "سيلينيوم سلفيد",
+      "risk": "warn",
+      "info": "مضاد للقشرة، قد يسبب جفاف وتغير لون الشعر"
+    },
+    {
+      "name_en": "Coal Tar",
+      "name_ar": "قطران الفحم",
+      "risk": "warn",
+      "info": "مضاد للقشرة والصدفية، قد يسبب تهيج"
+    }
+  ],
+
+  "🌸 Fragrances & Essential Oils (العطور والزيوت العطرية)": [
+    {
+      "name_en": "Parfum / Fragrance",
+      "name_ar": "عطر / بارفوم",
+      "risk": "warn",
+      "info": "قد يسبب حساسية للبشرة الحساسة"
+    },
+    {
+      "name_en": "Melaleuca Alternifolia Leaf Oil",
+      "name_ar": "زيت شجرة الشاي",
+      "risk": "low",
+      "info": "زيت طبيعي مضاد للبكتيريا والفطريات"
+    },
+    {
+      "name_en": "Lavender Oil",
+      "name_ar": "زيت اللافندر",
+      "risk": "low",
+      "info": "زيت عطري مهدئ"
+    },
+    {
+      "name_en": "Tea Tree Oil",
+      "name_ar": "زيت شجرة الشاي",
+      "risk": "low",
+      "info": "مضاد للبكتيريا والفطريات"
+    },
+    {
+      "name_en": "Rosemary Oil",
+      "name_ar": "زيت إكليل الجبل",
+      "risk": "low",
+      "info": "يحفز نمو الشعر ومضاد للأكسدة"
+    },
+    {
+      "name_en": "Peppermint Oil",
+      "name_ar": "زيت النعناع",
+      "risk": "low",
+      "info": "منعش ومهدئ للحكة"
+    },
+    {
+      "name_en": "Hexyl Cinnamal",
+      "name_ar": "هكسيل سينامال",
+      "risk": "warn",
+      "info": "مكون عطري، قد يسبب حساسية"
+    },
+    {
+      "name_en": "Benzyl Salicylate",
+      "name_ar": "ساليستيلات البنزيل",
+      "risk": "warn",
+      "info": "مكون عطري، مثبت للعطور"
+    },
+    {
+      "name_en": "Limonene",
+      "name_ar": "ليمونين",
+      "risk": "warn",
+      "info": "مكون عطري من الحمضيات، قد يسبب حساسية"
+    },
+    {
+      "name_en": "Linalool",
+      "name_ar": "لينالول",
+      "risk": "warn",
+      "info": "مكون عطري طبيعي، قد يسبب حساسية"
+    }
+  ],
+
+  "🧪 Thickeners & Emulsifiers (مكثفات ومستحلبات)": [
+    {
+      "name_en": "Carbomer",
+      "name_ar": "كربومير",
+      "risk": "low",
+      "info": "مكثف ومثبت"
+    },
+    {
+      "name_en": "Glycol Distearate",
+      "name_ar": "جليكول ثنائي استيرات",
+      "risk": "low",
+      "info": "مكثف ويعطي مظهراً لؤلؤياً"
+    },
+    {
+      "name_en": "Cetearyl Alcohol",
+      "name_ar": "كحول سيتيريل",
+      "risk": "low",
+      "info": "مثبت ومكثف، كحول دهني غير مهيج"
+    },
+    {
+      "name_en": "Cetyl Alcohol",
+      "name_ar": "كحول سيتيل",
+      "risk": "low",
+      "info": "مثبت ومكثف، كحول دهني"
+    },
+    {
+      "name_en": "Stearic Acid",
+      "name_ar": "حمض الستياريك",
+      "risk": "low",
+      "info": "مستحلب ومكثف"
+    },
+    {
+      "name_en": "Xanthan Gum",
+      "name_ar": "صمغ زانثان",
+      "risk": "low",
+      "info": "مكثف طبيعي"
+    }
+  ]
+}
